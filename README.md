@@ -2,7 +2,7 @@
 
 A polished, fully responsive restaurant website built with **React 18**, **Vite**, and **Tailwind CSS**.
 
-🔗 **Live demo:** https://liyevv5511-bot.github.io/olivea-restaurant/
+🔗 **Live demo:** https://Aliyev-dev.github.io/olivea-restaurant/
 
 ## Features
 
